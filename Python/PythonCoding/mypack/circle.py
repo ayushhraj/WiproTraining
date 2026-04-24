@@ -1,8 +1,8 @@
 
 
-def areaofcircle(rad):
+def area_of_circle(rad):
     return 3.14 * rad *rad
 
 
-def perimeterofcircle(rad):
+def perimeter_of_circle(rad):
     return 2 * 3.14 * rad

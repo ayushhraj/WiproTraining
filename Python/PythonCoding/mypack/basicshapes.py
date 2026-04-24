@@ -1,15 +1,15 @@
 
-def areaofsquare(side):
+def area_of_square(side):
     return side * side
 
 
-def perimeterofsquare(side):
+def perimeter_of_square(side):
     return 4 * side
 
 
-def areaofrect(l,b):
+def area_of_rect(l,b):
     return l * b
 
 
-def perimeterofrect(l,b):
+def perimeter_of_rect(l,b):
     return 2* (l + b)
